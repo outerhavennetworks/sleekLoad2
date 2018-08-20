@@ -73,7 +73,7 @@ var l_bgImageMapBased = false;
 // (You can also use external URL)
 var l_bgImages = [
 	"heli.jpg",
-	"perry.jpg",
+	"helicop.jpg",
 ];
 
 // (Image-background only)
