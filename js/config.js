@@ -117,8 +117,13 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{youtube: "https://www.youtube.com/watch?v=GRCT30pDtVE", name: "Perry the platypus theme"},
-	{youtube: "https://www.youtube.com/watch?v=9DOrg2jrojA", name: "Ram Ranch"},
+	{youtube: "https://www.youtube.com/watch?v=T1yPtNwFGvY", name: "Merica"},
+	{youtube: "https://www.youtube.com/watch?v=nfK9UPEQavo", name: "Murica Fuck Yeah"},
+	{youtube: "https://www.youtube.com/watch?v=40JmEj0_aVM", name: "Creedence Clearwater Revival - Fortunate Son"},
+	{youtube: "https://www.youtube.com/watch?v=O4irXQhgMqg", name: "The Rolling Stones - Paint It, Black"},
+	{youtube: "https://www.youtube.com/watch?v=wSwewlSkIXU", name: "Five Finger Death Punch - Gone Away"},
+	{youtube: "https://www.youtube.com/watch?v=xGG_e3XDjcA", name: "Five Finger Death Punch - Bad Company"},
+	{youtube: "https://www.youtube.com/watch?v=9XaS93WMRQQ", name: "The Wolves - Zombie"},
 ];
 
 // Random music order?
@@ -135,9 +140,13 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"Gmod is Kewl",
-	"Ram Ranch Really Rocks",
+	"Join Our Discord: https://discord.gg/Bxsq2XW",
+	"To Suicide Bomb you need to be a Bomber or else it is FailRp!",
 	"This server was created by Zack Horsch and Jack Mason",
+	"Join Our Forums https://outerhavennetworks.mistforums.com/",
+	"Donate to Help us grow and get Extra Perks in game!",
+	"The PDRA are our Communist Revolutionary comrads to help the struggle join as a recruit!", 
+	"We must stop the spread of Communism and Muslim Radicalism to help the cause Join the U.S. Army",
 ];
 
 // Random message order?
