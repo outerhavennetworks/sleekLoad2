@@ -73,11 +73,16 @@ var l_bgImageMapBased = false;
 // (You can also use external URL)
 var l_bgImages = [
 	"helicop.jpg",
-	"Server Background1.jpg",
-	"Server Background2.jpg",
-	"Server Background3.jpg",
+	"Server1.jpg",
+	"Server2.jpg",
+	"Server.jpg",
 	"Server Background4.jpg",
-	"Server Background5.jpg",
+	"Server3.jpg",
+	"Server4.jpg",
+	"Server5.jpg",
+	"Server6.jpg",
+	"Server7.jpg",
+	"Server8.jpg",
 	
 ];
 
