@@ -146,7 +146,6 @@ var l_messagesEnabled = true;
 // Enter your custom messages below
 var l_messages = [
 	"Join Our Discord: https://discord.gg/Bxsq2XW",
-	"To Suicide Bomb you need to be a Bomber or else it is FailRp!",
 	"This server was created by Zack Horsch and Jack Mason",
 	"Join Our Forums https://outerhavennetworks.mistforums.com/",
 	"Donate to Help us grow and get Extra Perks in game!",
