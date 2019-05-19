@@ -22,7 +22,7 @@ var l_displayMapGamemode = true;
 
 // Custom server name configuration
 // Leave it blank for automatic server name
-var l_serverName = "Outer-Haven Networks Insurgency RP";
+var l_serverName = "Outer-Haven Networks Soviet Dark Rp";
 
 // Use a video for the background?
 // Otherwise it will use images
@@ -142,11 +142,11 @@ var l_messagesEnabled = true;
 // Enter your custom messages below
 var l_messages = [
 	"Join Our Discord: https://discord.gg/Bxsq2XW",
-	"This server was created by Zack Horsch and Jack Mason",
-	"Join Our Forums https://outerhavennetworks.mistforums.com/",
+	"This server was created by Zack Horsch and Lightning",
+	"Join, Be Active, Make Friends, and Earn Staff",
 	"Donate to Help us grow and get Extra Perks in game!",
-	"The PDRA are our Communist Revolutionary comrads to help the struggle join as a recruit!", 
-	"We must stop the spread of Communism and Muslim Radicalism to help the cause Join the U.S. Army",
+	"Save our brothers in the west from Capitalism, Join the Military", 
+	"Stop the murder of millions fight back against Communism",
 ];
 
 // Random message order?
