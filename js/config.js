@@ -72,18 +72,14 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-	"helicop.jpg",
-	"Server1.jpg",
-	"Server2.jpg",
-	"Server.jpg",
-	"Server Background4.jpg",
-	"Server3.jpg",
-	"Server4.jpg",
-	"Server5.jpg",
-	"Server6.jpg",
-	"Server7.jpg",
-	"Server8.jpg",
-	
+	"SovietUnion1.jpg",
+	"SovietUnion2.jpg",
+	"SovietUnion3.jpg",
+	"SovietUnion4.jpg",
+	"SovietUnion5.jpg",
+	"SovietUnion6.jpg",
+	"SovietUnion7.jpg",
+	"SovietUnion8.jpg",
 ];
 
 // (Image-background only)
