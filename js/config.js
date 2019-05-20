@@ -118,7 +118,7 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{youtube: "", name: ""},
+	"ServerMusic - Soviet Mix.ogg",
 ];
 
 // Random music order?
