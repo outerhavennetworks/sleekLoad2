@@ -118,13 +118,7 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{youtube: "https://www.youtube.com/watch?v=T1yPtNwFGvY", name: "Merica"},
-	{youtube: "https://www.youtube.com/watch?v=nfK9UPEQavo", name: "Murica Fuck Yeah"},
-	{youtube: "https://www.youtube.com/watch?v=40JmEj0_aVM", name: "Creedence Clearwater Revival - Fortunate Son"},
-	{youtube: "https://www.youtube.com/watch?v=O4irXQhgMqg", name: "The Rolling Stones - Paint It, Black"},
-	{youtube: "https://www.youtube.com/watch?v=wSwewlSkIXU", name: "Five Finger Death Punch - Gone Away"},
-	{youtube: "https://www.youtube.com/watch?v=xGG_e3XDjcA", name: "Five Finger Death Punch - Bad Company"},
-	{youtube: "https://www.youtube.com/watch?v=9XaS93WMRQQ", name: "The Wolves - Zombie"},
+	{youtube: "", name: ""},
 ];
 
 // Random music order?
