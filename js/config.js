@@ -78,7 +78,6 @@ var l_bgImages = [
 	"SovietUnion4.jpg",
 	"SovietUnion5.jpg",
 	"SovietUnion6.jpg",
-	"SovietUnion7.jpg",
 	"SovietUnion8.jpg",
 ];
 
