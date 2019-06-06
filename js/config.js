@@ -134,12 +134,12 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"Join Our Discord: https://discord.gg/Bxsq2XW",
-	"This server was created by Zack Horsch and Lightning",
-	"Join, Be Active, Make Friends, and Earn Staff",
-	"Donate to Help us grow and get Extra Perks in game!",
-	"Save our brothers in the west from Capitalism, Join the Military", 
-	"Stop the murder of millions fight back against Communism",
+	"Join the discord in the F4 menu.",
+	"Want to make more money? Try to find a business owner and ask for a job! We use the billions mod.",
+	"This server is a DarkRP server set in 1989 Soviet Union.",
+	"If a door has a yellow light over the door, you can enter it.",
+	"Dealing drugs is illegal.", 
+	"Gun dealers may not spawn weapons for themselves.",
 ];
 
 // Random message order?
